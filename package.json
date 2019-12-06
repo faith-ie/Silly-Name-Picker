@@ -1,0 +1,16 @@
+{
+  "name": "sillynamepicker",
+  "version": "1.0.0",
+  "description": "A silly name picker for your epic names",
+  "main": "program.js",
+  "scripts": {
+    "test": "run program"
+  },
+  "keywords": [
+    "Name",
+    "picker",
+    "silly"
+  ],
+  "author": "Daniel Viola",
+  "license": "ISC"
+}
